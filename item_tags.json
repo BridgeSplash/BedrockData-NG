@@ -52,8 +52,7 @@
     "minecraft:bookshelf_books": [
         "minecraft:book",
         "minecraft:enchanted_book",
-        "minecraft:writable_book",
-        "minecraft:written_book"
+        "minecraft:writable_book"
     ],
     "minecraft:chainmail_tier": [
         "minecraft:chainmail_boots",
@@ -465,8 +464,7 @@
         "minecraft:leather_leggings"
     ],
     "minecraft:lectern_books": [
-        "minecraft:writable_book",
-        "minecraft:written_book"
+        "minecraft:writable_book"
     ],
     "minecraft:logs": [
         "minecraft:acacia_log",
@@ -563,6 +561,10 @@
         "minecraft:gold_nugget",
         "minecraft:iron_nugget"
     ],
+    "minecraft:mushrooms_for_stew": [
+        "minecraft:brown_mushroom",
+        "minecraft:red_mushroom"
+    ],
     "minecraft:music_disc": [
         "minecraft:music_disc_11",
         "minecraft:music_disc_13",
@@ -657,7 +659,6 @@
         "minecraft:soul_soil"
     ],
     "minecraft:spawn_egg": [
-        "minecraft:agent_spawn_egg",
         "minecraft:allay_spawn_egg",
         "minecraft:armadillo_spawn_egg",
         "minecraft:axolotl_spawn_egg",
@@ -700,7 +701,6 @@
         "minecraft:mooshroom_spawn_egg",
         "minecraft:mule_spawn_egg",
         "minecraft:nautilus_spawn_egg",
-        "minecraft:npc_spawn_egg",
         "minecraft:ocelot_spawn_egg",
         "minecraft:panda_spawn_egg",
         "minecraft:parched_spawn_egg",
@@ -723,7 +723,6 @@
         "minecraft:slime_spawn_egg",
         "minecraft:sniffer_spawn_egg",
         "minecraft:snow_golem_spawn_egg",
-        "minecraft:spawn_egg",
         "minecraft:spider_spawn_egg",
         "minecraft:squid_spawn_egg",
         "minecraft:stray_spawn_egg",
@@ -1013,7 +1012,6 @@
         "minecraft:mud_bricks",
         "minecraft:nether_brick",
         "minecraft:netherrack",
-        "minecraft:observer",
         "minecraft:obsidian",
         "minecraft:orange_concrete",
         "minecraft:orange_glazed_terracotta",
@@ -1047,7 +1045,6 @@
         "minecraft:red_nether_brick",
         "minecraft:red_sandstone",
         "minecraft:red_terracotta",
-        "minecraft:redstone_lamp",
         "minecraft:redstone_ore",
         "minecraft:sandstone",
         "minecraft:sea_lantern",
