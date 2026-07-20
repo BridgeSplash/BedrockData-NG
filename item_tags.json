@@ -52,7 +52,8 @@
     "minecraft:bookshelf_books": [
         "minecraft:book",
         "minecraft:enchanted_book",
-        "minecraft:writable_book"
+        "minecraft:writable_book",
+        "minecraft:written_book"
     ],
     "minecraft:chainmail_tier": [
         "minecraft:chainmail_boots",
@@ -464,7 +465,8 @@
         "minecraft:leather_leggings"
     ],
     "minecraft:lectern_books": [
-        "minecraft:writable_book"
+        "minecraft:writable_book",
+        "minecraft:written_book"
     ],
     "minecraft:logs": [
         "minecraft:acacia_log",
@@ -485,6 +487,8 @@
         "minecraft:oak_wood",
         "minecraft:pale_oak_log",
         "minecraft:pale_oak_wood",
+        "minecraft:poplar_log",
+        "minecraft:poplar_wood",
         "minecraft:spruce_log",
         "minecraft:spruce_wood",
         "minecraft:stripped_acacia_log",
@@ -505,6 +509,8 @@
         "minecraft:stripped_oak_wood",
         "minecraft:stripped_pale_oak_log",
         "minecraft:stripped_pale_oak_wood",
+        "minecraft:stripped_poplar_log",
+        "minecraft:stripped_poplar_wood",
         "minecraft:stripped_spruce_log",
         "minecraft:stripped_spruce_wood",
         "minecraft:stripped_warped_hyphae",
@@ -529,6 +535,8 @@
         "minecraft:oak_wood",
         "minecraft:pale_oak_log",
         "minecraft:pale_oak_wood",
+        "minecraft:poplar_log",
+        "minecraft:poplar_wood",
         "minecraft:spruce_log",
         "minecraft:spruce_wood",
         "minecraft:stripped_acacia_log",
@@ -547,6 +555,8 @@
         "minecraft:stripped_oak_wood",
         "minecraft:stripped_pale_oak_log",
         "minecraft:stripped_pale_oak_wood",
+        "minecraft:stripped_poplar_log",
+        "minecraft:stripped_poplar_wood",
         "minecraft:stripped_spruce_log",
         "minecraft:stripped_spruce_wood"
     ],
@@ -621,6 +631,7 @@
         "minecraft:mangrove_planks",
         "minecraft:oak_planks",
         "minecraft:pale_oak_planks",
+        "minecraft:poplar_planks",
         "minecraft:spruce_planks",
         "minecraft:warped_planks"
     ],
@@ -659,6 +670,7 @@
         "minecraft:soul_soil"
     ],
     "minecraft:spawn_egg": [
+        "minecraft:agent_spawn_egg",
         "minecraft:allay_spawn_egg",
         "minecraft:armadillo_spawn_egg",
         "minecraft:axolotl_spawn_egg",
@@ -701,6 +713,7 @@
         "minecraft:mooshroom_spawn_egg",
         "minecraft:mule_spawn_egg",
         "minecraft:nautilus_spawn_egg",
+        "minecraft:npc_spawn_egg",
         "minecraft:ocelot_spawn_egg",
         "minecraft:panda_spawn_egg",
         "minecraft:parched_spawn_egg",
@@ -723,6 +736,7 @@
         "minecraft:slime_spawn_egg",
         "minecraft:sniffer_spawn_egg",
         "minecraft:snow_golem_spawn_egg",
+        "minecraft:spawn_egg",
         "minecraft:spider_spawn_egg",
         "minecraft:squid_spawn_egg",
         "minecraft:stray_spawn_egg",
@@ -803,6 +817,9 @@
         "minecraft:pale_oak_log",
         "minecraft:pale_oak_planks",
         "minecraft:pale_oak_wood",
+        "minecraft:poplar_log",
+        "minecraft:poplar_planks",
+        "minecraft:poplar_wood",
         "minecraft:spruce_log",
         "minecraft:spruce_planks",
         "minecraft:spruce_wood",
@@ -825,6 +842,8 @@
         "minecraft:stripped_oak_wood",
         "minecraft:stripped_pale_oak_log",
         "minecraft:stripped_pale_oak_wood",
+        "minecraft:stripped_poplar_log",
+        "minecraft:stripped_poplar_wood",
         "minecraft:stripped_spruce_log",
         "minecraft:stripped_spruce_wood",
         "minecraft:stripped_warped_hyphae",
