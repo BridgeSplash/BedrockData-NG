@@ -70,7 +70,8 @@
             {
                 "meta": 6,
                 "name": "minecraft:bed"
-            }
+            },
+            "minecraft:straw_bed"
         ]
     },
     {
@@ -353,6 +354,10 @@
             {
                 "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
                 "name": "minecraft:warped_shelf"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "name": "minecraft:poplar_shelf"
             }
         ]
     },
@@ -567,7 +572,8 @@
             "minecraft:pale_oak_sign",
             "minecraft:bamboo_sign",
             "minecraft:crimson_sign",
-            "minecraft:warped_sign"
+            "minecraft:warped_sign",
+            "minecraft:poplar_sign"
         ]
     },
     {
@@ -585,7 +591,8 @@
             "minecraft:pale_oak_hanging_sign",
             "minecraft:bamboo_hanging_sign",
             "minecraft:crimson_hanging_sign",
-            "minecraft:warped_hanging_sign"
+            "minecraft:warped_hanging_sign",
+            "minecraft:poplar_hanging_sign"
         ]
     },
     {
@@ -1286,7 +1293,8 @@
             "minecraft:mangrove_boat",
             "minecraft:cherry_boat",
             "minecraft:pale_oak_boat",
-            "minecraft:bamboo_raft"
+            "minecraft:bamboo_raft",
+            "minecraft:poplar_boat"
         ]
     },
     {
@@ -1302,7 +1310,8 @@
             "minecraft:mangrove_chest_boat",
             "minecraft:cherry_chest_boat",
             "minecraft:pale_oak_chest_boat",
-            "minecraft:bamboo_chest_raft"
+            "minecraft:bamboo_chest_raft",
+            "minecraft:poplar_chest_boat"
         ]
     },
     {
@@ -1418,6 +1427,10 @@
             {
                 "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
                 "name": "minecraft:polished_blackstone_button"
+            },
+            {
+                "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:poplar_button"
             }
         ]
     },
@@ -1501,6 +1514,10 @@
             {
                 "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
                 "name": "minecraft:polished_blackstone_pressure_plate"
+            },
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:poplar_pressure_plate"
             }
         ]
     },
@@ -1925,6 +1942,28 @@
             },
             "minecraft:trial_key",
             "minecraft:ominous_trial_key"
+        ]
+    },
+    {
+        "group_icon": "minecraft:red_cushion",
+        "group_name": "itemGroup.name.cushion",
+        "items": [
+            "minecraft:black_cushion",
+            "minecraft:blue_cushion",
+            "minecraft:brown_cushion",
+            "minecraft:cyan_cushion",
+            "minecraft:gray_cushion",
+            "minecraft:green_cushion",
+            "minecraft:light_blue_cushion",
+            "minecraft:light_gray_cushion",
+            "minecraft:lime_cushion",
+            "minecraft:magenta_cushion",
+            "minecraft:orange_cushion",
+            "minecraft:pink_cushion",
+            "minecraft:purple_cushion",
+            "minecraft:red_cushion",
+            "minecraft:white_cushion",
+            "minecraft:yellow_cushion"
         ]
     },
     {
