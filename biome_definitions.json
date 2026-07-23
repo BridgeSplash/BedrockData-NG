@@ -19,8 +19,7 @@
             "monster",
             "overworld",
             "spawns_jungle_mobs",
-            "spawns_warm_variant_farm_animals",
-            "has_structure_abandoned_camp"
+            "spawns_warm_variant_farm_animals"
         ],
         "temperature": 0.95
     },
@@ -111,8 +110,7 @@
             "forest",
             "monster",
             "overworld",
-            "bee_habitat",
-            "has_structure_abandoned_camp"
+            "bee_habitat"
         ],
         "temperature": 0.6
     },
@@ -185,8 +183,7 @@
             "mutated",
             "bee_habitat",
             "overworld_generation",
-            "has_structure_trail_ruins",
-            "has_structure_abandoned_camp"
+            "has_structure_trail_ruins"
         ],
         "temperature": 0.6
     },
@@ -208,8 +205,7 @@
             "monster",
             "overworld",
             "cherry_grove",
-            "bee_habitat",
-            "has_structure_abandoned_camp"
+            "bee_habitat"
         ],
         "temperature": 0.3
     },
@@ -283,8 +279,7 @@
             "overworld",
             "taiga",
             "has_structure_trail_ruins",
-            "spawns_cold_variant_farm_animals",
-            "has_structure_abandoned_camp"
+            "spawns_cold_variant_farm_animals"
         ],
         "temperature": -0.5
     },
@@ -362,30 +357,6 @@
             "spawns_warm_variant_farm_animals"
         ],
         "temperature": 2
-    },
-    "minecraft:dappled_forest": {
-        "depth": 0.1,
-        "downfall": 0.6,
-        "foliageSnow": 0,
-        "id": 65535,
-        "mapWaterColour": {
-            "a": 166,
-            "b": 255,
-            "g": 183,
-            "r": 96
-        },
-        "rain": true,
-        "scale": 0.2,
-        "tags": [
-            "animal",
-            "dappled_forest",
-            "monster",
-            "forest",
-            "overworld",
-            "spawns_cold_variant_farm_animals",
-            "has_structure_abandoned_camp"
-        ],
-        "temperature": 0.6
     },
     "minecraft:deep_cold_ocean": {
         "depth": -1.8,
@@ -714,8 +685,7 @@
             "monster",
             "mountain",
             "overworld",
-            "spawns_cold_variant_farm_animals",
-            "has_structure_abandoned_camp"
+            "spawns_cold_variant_farm_animals"
         ],
         "temperature": 0.2
     },
@@ -762,8 +732,7 @@
             "monster",
             "mutated",
             "overworld",
-            "bee_habitat",
-            "has_structure_abandoned_camp"
+            "bee_habitat"
         ],
         "temperature": 0.7
     },
@@ -785,8 +754,7 @@
             "forest",
             "monster",
             "overworld",
-            "bee_habitat",
-            "has_structure_abandoned_camp"
+            "bee_habitat"
         ],
         "temperature": 0.7
     },
@@ -1090,8 +1058,7 @@
             "monster",
             "overworld",
             "spawns_jungle_mobs",
-            "spawns_warm_variant_farm_animals",
-            "has_structure_abandoned_camp"
+            "spawns_warm_variant_farm_animals"
         ],
         "temperature": 0.95
     },
@@ -1280,8 +1247,7 @@
             "monster",
             "overworld",
             "meadow",
-            "bee_habitat",
-            "has_structure_abandoned_camp"
+            "bee_habitat"
         ],
         "temperature": 0.3
     },
@@ -1307,8 +1273,7 @@
             "rare",
             "taiga",
             "has_structure_trail_ruins",
-            "spawns_cold_variant_farm_animals",
-            "has_structure_abandoned_camp"
+            "spawns_cold_variant_farm_animals"
         ],
         "temperature": 0.3
     },
@@ -1462,8 +1427,7 @@
             "stone",
             "spawns_mesa_mobs",
             "spawns_warm_variant_farm_animals",
-            "surface_mineshaft",
-            "has_structure_abandoned_camp"
+            "surface_mineshaft"
         ],
         "temperature": 2
     },
@@ -1572,8 +1536,7 @@
         "tags": [
             "monster",
             "overworld",
-            "pale_garden",
-            "has_structure_abandoned_camp"
+            "pale_garden"
         ],
         "temperature": 0.7
     },
@@ -1647,8 +1610,7 @@
             "overworld",
             "taiga",
             "has_structure_trail_ruins",
-            "spawns_cold_variant_farm_animals",
-            "has_structure_abandoned_camp"
+            "spawns_cold_variant_farm_animals"
         ],
         "temperature": 0.25
     },
@@ -1739,8 +1701,7 @@
             "overworld",
             "savanna",
             "spawns_savanna_mobs",
-            "spawns_warm_variant_farm_animals",
-            "has_structure_abandoned_camp"
+            "spawns_warm_variant_farm_animals"
         ],
         "temperature": 1.2
     },
@@ -1971,8 +1932,7 @@
             "swamp",
             "spawns_slimes_on_surface",
             "slime",
-            "swamp_water_huge_mushroom",
-            "has_structure_abandoned_camp"
+            "swamp_water_huge_mushroom"
         ],
         "temperature": 0.8
     },
@@ -2021,8 +1981,7 @@
             "overworld",
             "taiga",
             "has_structure_trail_ruins",
-            "spawns_cold_variant_farm_animals",
-            "has_structure_abandoned_camp"
+            "spawns_cold_variant_farm_animals"
         ],
         "temperature": 0.25
     },

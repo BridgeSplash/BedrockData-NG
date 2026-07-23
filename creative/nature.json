@@ -196,14 +196,6 @@
             {
                 "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "name": "minecraft:stripped_warped_stem"
-            },
-            {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:poplar_log"
-            },
-            {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:stripped_poplar_log"
             }
         ]
     },
@@ -309,14 +301,6 @@
             {
                 "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "name": "minecraft:stripped_bamboo_block"
-            },
-            {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:poplar_wood"
-            },
-            {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:stripped_poplar_wood"
             }
         ]
     },
@@ -370,18 +354,6 @@
             {
                 "block_states": "CgAAAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAA",
                 "name": "minecraft:azalea_leaves_flowered"
-            },
-            {
-                "block_states": "CgAAAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAA",
-                "name": "minecraft:orange_poplar_leaves"
-            },
-            {
-                "block_states": "CgAAAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAA",
-                "name": "minecraft:red_poplar_leaves"
-            },
-            {
-                "block_states": "CgAAAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAA",
-                "name": "minecraft:yellow_poplar_leaves"
             }
         ]
     },
@@ -427,10 +399,6 @@
             {
                 "block_states": "CgAAAQcAYWdlX2JpdAAA",
                 "name": "minecraft:pale_oak_sapling"
-            },
-            {
-                "block_states": "CgAAAQcAYWdlX2JpdAAA",
-                "name": "minecraft:poplar_sapling"
             }
         ]
     },
@@ -516,8 +484,7 @@
             "minecraft:short_dry_grass",
             "minecraft:tall_dry_grass",
             "minecraft:bush",
-            "minecraft:nether_sprouts",
-            "minecraft:red_shrub"
+            "minecraft:nether_sprouts"
         ]
     },
     {
@@ -793,8 +760,7 @@
             {
                 "block_states": "CgAAAxIAaHVnZV9tdXNocm9vbV9iaXRzDwAAAAA=",
                 "name": "minecraft:mushroom_stem"
-            },
-            "minecraft:shelf_mushroom"
+            }
         ]
     },
     {
